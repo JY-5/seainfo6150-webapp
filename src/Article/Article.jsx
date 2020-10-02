@@ -7,7 +7,7 @@ const Article = () => {
         <h1>The Statue of Liberty's torch heads to new museum</h1>
 
         <p>
-          <i>by Kate Farley (<a href="kate.farley@nytimes.com" target="_blank" rel="noopener">kate.farley@nytimes.com</a>)</i>
+          <i>by Kate Farley (<a href="kate.farley@nytimes.com" target="_blank" rel="noopener noreferrer">kate.farley@nytimes.com</a>)</i>
           <br />
           <time datetime="2018-11-22">November 22, 2018</time>
         </p>
@@ -34,7 +34,18 @@ const Article = () => {
 
         <p>Since then, the statue has served as a symbol of hope and possibility for many people who entered the United States as immigrants via neighboring Ellis Island.</p>
 
-        <p><q>The original torch is a beautiful object of art and exemplifies the American ideals of freedom and democracy,</q> says John Piltzecker, superintendent of the Statue of Liberty National Monument. That symbolic spirit inspired the decision to inscribe these famous lines on the statue's pedestal: <blockquote>Give me your tired, your poor<br />Your huddled masses yearning to breathe free.</blockquote></p>
+        <p>
+          <q>
+            The original torch is a beautiful object of art and exemplifies the American ideals of freedom and democracy,
+          </q> 
+          says John Piltzecker, superintendent of the Statue of Liberty National Monument. That symbolic spirit inspired the decision to inscribe these famous lines on the statue's pedestal: 
+        </p>
+
+        <blockquote>
+          Give me your tired, your poor
+          <br />
+          Your huddled masses yearning to breathe free.
+        </blockquote>
 
         <p>In 2017, nearly 4.5 million people visited Liberty Island.</p>
 
