@@ -1,8 +1,10 @@
 button {
     color: white;
     background-color: #c30202;
-    margin-bottom: 1rem;
+    margin-top: 0.2rem;
+    margin-bottom: 0.5rem;
     padding: 0.5rem;
     box-shadow: inset 5px 5px 10px 10px #c30202;
     border-radius: 10px;
+    font-size: 0.6rem;
 }
