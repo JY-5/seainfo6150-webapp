@@ -1,0 +1,244 @@
+[33mcommit 8549db0196651c1f773129e935cf332daea90aab[m[33m ([m[1;36mHEAD -> [m[1;32mresponsive-layout-assignment[m[33m, [m[1;31morigin/responsive-layout-assignment[m[33m)[m
+Author: JY-5 <58899117+JY-5@users.noreply.github.com>
+Date:   Fri Oct 30 09:59:02 2020 -0700
+
+    Finished responsive layout assignment
+
+[33mcommit c2118452b3af9a671d27bb14f6ecfc8030a678ed[m[33m ([m[1;31morigin/css-assignment[m[33m, [m[1;32mresponsive-layout-assigment[m[33m, [m[1;32mcss-assignment[m[33m)[m
+Author: JY-5 <58899117+JY-5@users.noreply.github.com>
+Date:   Sun Oct 25 22:59:47 2020 -0700
+
+    Finished css assignment
+
+[33mcommit 3becfccfd07e6226db551a653ff5ba2ddf9d3242[m
+Merge: f6a8212 ee89a11
+Author: JY-5 <58899117+JY-5@users.noreply.github.com>
+Date:   Fri Oct 23 22:02:09 2020 -0700
+
+    Merge branch 'master' into css-assignment
+
+[33mcommit ee89a11f7b22bfaa86f3dbbcae9554831b95d44d[m[33m ([m[1;31mupstream/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: April Bingham <a.bingham@northeastern.edu>
+Date:   Wed Oct 21 13:56:47 2020 -0700
+
+    console warnings
+
+[33mcommit f5c8cd0b8f6caac38ec882014f0a9c3c5f8f7c25[m
+Author: April Bingham <a.bingham@northeastern.edu>
+Date:   Tue Oct 20 19:12:51 2020 -0700
+
+    cleaning up warnings & validation
+
+[33mcommit f6a82122c50602dce99f9eedfb3d5f553dda98a1[m[33m ([m[1;31morigin/react-apps-assignment[m[33m, [m[1;32mreact-apps-assignment[m[33m)[m
+Author: JY-5 <58899117+JY-5@users.noreply.github.com>
+Date:   Sat Oct 17 15:13:05 2020 -0700
+
+    Finished react-apps-assignment
+
+[33mcommit 9c3fb958950a56b279e7698a68dc043632e7beaf[m
+Merge: 4d5afa9 e7251dc
+Author: aprilbingham-neu <43396736+aprilbingham-neu@users.noreply.github.com>
+Date:   Wed Oct 14 18:57:35 2020 -0700
+
+    Merge pull request #40 from aprilbingham-neu/dependabot/npm_and_yarn/http-proxy-1.18.1
+    
+    Bump http-proxy from 1.18.0 to 1.18.1
+
+[33mcommit a7fa107b37497125a904cb31d2ee40c9745c8e39[m[33m ([m[1;31morigin/javascript-assignment[m[33m, [m[1;32mjavascript-assignment[m[33m)[m
+Author: JY-5 <58899117+JY-5@users.noreply.github.com>
+Date:   Fri Oct 9 16:04:08 2020 -0700
+
+    Finished JS-assginment
+
+[33mcommit d324f1ab1b45dc8c07e501cd16b8d75aa001e50b[m[33m ([m[1;31mupstream/html-assignment-FINAL[m[33m, [m[1;32mhtml-assignment-FINAL[m[33m)[m
+Author: April Bingham <a.bingham@northeastern.edu>
+Date:   Wed Oct 7 09:04:51 2020 -0700
+
+    adding dynamic article
+
+[33mcommit 5252f8ef7913525204321e9b4a6ee1d8fc7a3329[m
+Author: April Bingham <a.bingham@northeastern.edu>
+Date:   Sun Oct 4 12:47:18 2020 -0700
+
+    final solution
+
+[33mcommit 4d5afa95d74c84e478e6b77fa20c6f43d234af87[m
+Author: April Bingham <a.bingham@northeastern.edu>
+Date:   Wed Sep 30 13:51:34 2020 -0700
+
+    validation
+
+[33mcommit f7751c8b938b7670b3f5dc61abdf308d819695f9[m
+Author: April Bingham <a.bingham@northeastern.edu>
+Date:   Wed Sep 30 13:38:36 2020 -0700
+
+    datetime attribute
+
+[33mcommit 62d0777e82b970b9c19b3f0843428785d003e43c[m
+Author: April Bingham <a.bingham@northeastern.edu>
+Date:   Wed Sep 30 13:33:40 2020 -0700
+
+    grid
+
+[33mcommit e7251dc14356efa27241a04544559eb2afc8bc7a[m[33m ([m[1;31mupstream/dependabot/npm_and_yarn/http-proxy-1.18.1[m[33m, [m[1;31morigin/dependabot/npm_and_yarn/http-proxy-1.18.1[m[33m)[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Tue Sep 8 07:53:22 2020 +0000
+
+    Bump http-proxy from 1.18.0 to 1.18.1
+    
+    Bumps [http-proxy](https://github.com/http-party/node-http-proxy) from 1.18.0 to 1.18.1.
+    - [Release notes](https://github.com/http-party/node-http-proxy/releases)
+    - [Changelog](https://github.com/http-party/node-http-proxy/blob/master/CHANGELOG.md)
+    - [Commits](https://github.com/http-party/node-http-proxy/compare/1.18.0...1.18.1)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 0544e749b39cba1cb1bfa9db8a88316b34f6ef48[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: April Bingham <a.bingham@northeastern.edu>
+Date:   Wed Sep 2 16:05:31 2020 -0700
+
+    update readme
+
+[33mcommit 7440da85999de4a3a93e4771acb294604a0f934f[m
+Author: April Bingham <a.bingham@northeastern.edu>
+Date:   Wed Sep 2 15:45:55 2020 -0700
+
+    updating readme
+
+[33mcommit 4f8bb85153acc03a9767f869059540f6f39dfc38[m
+Author: April Bingham <a.bingham@northeastern.edu>
+Date:   Wed Sep 2 15:38:35 2020 -0700
+
+    updating readme
+
+[33mcommit 4c4a4c349edb231840cabcad4865c50a4b5af0df[m
+Author: April Bingham <a.bingham@northeastern.edu>
+Date:   Wed Aug 19 16:20:34 2020 -0700
+
+    fixing filenames
+
+[33mcommit 45114e72284dcddf1308b1d0f72d29a41986d516[m
+Author: April Bingham <a.bingham@northeastern.edu>
+Date:   Wed Aug 19 16:12:55 2020 -0700
+
+    addingmachinehooks tests
+
+[33mcommit 57a8fac2f64bb40e35e78a4c04d5b41f0b499d3f[m
+Author: April Bingham <a.bingham@northeastern.edu>
+Date:   Fri Aug 7 13:35:01 2020 -0700
+
+    updating readme
+
+[33mcommit 0ab3ba3cfd7445d82b054aab8a78723334e6c14f[m
+Author: April Bingham <a.bingham@northeastern.edu>
+Date:   Fri Aug 7 13:16:02 2020 -0700
+
+    updating readme
+
+[33mcommit 84222dae2e9abc59966965f1a438020f1a4bbe89[m
+Author: April Bingham <a.bingham@northeastern.edu>
+Date:   Fri Aug 7 13:05:44 2020 -0700
+
+    codeify
+
+[33mcommit f8ca7f00b0658462152c515975cf132c404e5901[m
+Author: April Bingham <a.bingham@northeastern.edu>
+Date:   Fri Aug 7 13:05:14 2020 -0700
+
+    codeify
+
+[33mcommit 75d580ee1623963815edeea999581719b9e26b23[m
+Author: April Bingham <a.bingham@northeastern.edu>
+Date:   Fri Aug 7 12:43:46 2020 -0700
+
+    codeify
+
+[33mcommit 5fb0d57e46009b1ba7d271cfca42fbbe48c65aa0[m
+Author: April Bingham <a.bingham@northeastern.edu>
+Date:   Fri Aug 7 12:41:29 2020 -0700
+
+    bookmarklet encoded
+
+[33mcommit 56770f0c49c80f8fbd39b4546f98ac8bb8756e57[m
+Author: April Bingham <a.bingham@northeastern.edu>
+Date:   Fri Aug 7 12:37:38 2020 -0700
+
+    validation bookmarklet
+
+[33mcommit dd40b3cd883d105460a89270f3c0dfdd33e1a10b[m
+Author: April Bingham <a.bingham@northeastern.edu>
+Date:   Fri Aug 7 10:07:33 2020 -0700
+
+    validator bookmarklet
+
+[33mcommit 3b034dee36e3da5baf17de57a2063884e8cd619c[m
+Author: April Bingham <a.bingham@northeastern.edu>
+Date:   Thu Aug 6 11:09:51 2020 -0700
+
+    adding noopener
+
+[33mcommit 01a05ec1641b6b5041db42dd44d580ea50690141[m
+Author: April Bingham <a.bingham@northeastern.edu>
+Date:   Wed Aug 5 15:53:57 2020 -0700
+
+    remove index.css import
+
+[33mcommit 57b433d0e7f9c9c5a9a794d1b688147b09c332bf[m
+Author: April Bingham <a.bingham@northeastern.edu>
+Date:   Wed Aug 5 15:53:24 2020 -0700
+
+    htmltext component
+
+[33mcommit 98a59226bcedb125dc6480493da983fb978b9f8b[m
+Author: April Bingham <a.bingham@northeastern.edu>
+Date:   Wed Aug 5 15:49:38 2020 -0700
+
+    htmltext component
+
+[33mcommit 53370c09ed0cd9a381451f5b5d349e1dd23e2bfa[m
+Author: April Bingham <a.bingham@northeastern.edu>
+Date:   Wed Aug 5 12:43:04 2020 -0700
+
+    add routes to App.js, update data fetching to hooks
+
+[33mcommit f2db89e9669bc70c547241ea8037b7238ee4f543[m
+Author: April Bingham <a.bingham@northeastern.edu>
+Date:   Wed Aug 5 11:04:10 2020 -0700
+
+    demo files
+
+[33mcommit 28417603c2be0fab60c7e7ad20f8e838af54c14a[m
+Author: April Bingham <a.bingham@northeastern.edu>
+Date:   Mon Aug 3 15:59:45 2020 -0700
+
+    eap css examples and moving files to directories
+
+[33mcommit 52aa485b51d0d070cfc2987be66a9a57ed4025cd[m
+Author: April Bingham <a.bingham@northeastern.edu>
+Date:   Wed Jul 8 16:54:18 2020 -0700
+
+    adding tests
+
+[33mcommit 3527bdad25f5765953858ce0e4d8b334ab98a100[m
+Author: April Bingham <a.bingham@northeastern.edu>
+Date:   Wed Jul 1 17:27:37 2020 -0700
+
+    adding router
+
+[33mcommit 117384f697836eb750d3c8170475f5dc8259d111[m
+Author: April Bingham <a.bingham@northeastern.edu>
+Date:   Wed Jun 24 16:31:08 2020 -0700
+
+    examples update
+
+[33mcommit 9bb0e325bae24290632c86aaf8629ab506560910[m
+Author: April Bingham <a.bingham@northeastern.edu>
+Date:   Wed Jun 24 15:41:05 2020 -0700
+
+    example updates
+
+[33mcommit 448d8b17056bca7fd293f14ff1abd2831be6b9c1[m
+Author: April Bingham <a.bingham@northeastern.edu>
+Date:   Wed Jun 17 15:31:46 2020 -0700
+
+    upd

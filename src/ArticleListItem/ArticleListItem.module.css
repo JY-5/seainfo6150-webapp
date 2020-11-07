@@ -1,15 +1,19 @@
-time {
+.articleTime {
     font-weight: bold;
     font-size: 0.6rem;
 }
 
-p {
+.text {
     font-size: 0.6rem;
     margin-top: 0.1rem;
-    margin-bottom: 0.6rem;
+    margin-bottom: 0.3rem;
 }
 
-section {
+.content {
+    margin-bottom: 0.5rem;
+}
+
+.container {
     border: 1.5px solid #c30202;
     background-image: linear-gradient(90deg, rgb(180, 86, 91), white 20%);
     padding-left: 0.5rem;
@@ -22,14 +26,22 @@ section {
     height: 100%;
 }
 
-h1 {
+.title {
     color : #c30202;
     text-decoration: underline;
     margin-top: 0.5rem;
-    margin-bottom: 0.5rem;
-    font-size: larger;
+    margin-bottom: 0.6rem;
+    font-size: medium;
 }
 
-.display-content {
-    margin-bottom: 5rem;
+@media (min-width: 360px) {
+    .title {
+        font-size: large;
+    }
+} 
+
+@media (min-width: 600px) {
+    .title {
+        font-size: larger;
+    }
 }

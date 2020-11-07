@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import PropTypes from "prop-types";
 import ArticleTextToggleButton from "../ArticleTextToggleButton/ArticleTextToggleButton";
 import styles from "./ArticleListItem.module.css";
 
@@ -17,22 +18,23 @@ const ArticleListItem = (props) => {
     } else {
       textOnButton = "Show less";
       displayContent = (
-        <div className="display-content"> 
-          <p>{props.article.shortText}</p>
-          <p><time dateTime={props.article.timeStamp}>{props.article.displayDate}</time></p>
+        <div className={styles.content}> 
+          <p className={styles.text}>{props.article.shortText}</p>
+          <time dateTime={props.article.timeStamp} className={styles.articleTime}>{props.article.displayDate}</time>
         </div>
       );
     }
 
     return (
-      <section>
-        <header>
-          <h1>{props.article.title}</h1>
-        </header>
+      <section className={styles.container}>
+        <h1 className={styles.title}>{props.article.title}</h1>
         {displayContent}
         <ArticleTextToggleButton buttonText={textOnButton} onClick={changeClick}/>
       </section>
     );
 };
 
+ArticleListItem.propTypes = {
+  article: PropTypes.object.isRequired,
+};
 export default ArticleListItem;

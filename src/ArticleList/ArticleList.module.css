@@ -1,4 +1,4 @@
-ul {
+.list {
     list-style-type: none;
     border-style: dashed;
     border-color: gray;
@@ -7,11 +7,29 @@ ul {
     box-shadow: 0 0 10px 5px rgba(205, 47, 48, 60%);
     font-family: Arial;
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: 1fr;
     gap: 1rem;
     padding: 0.7rem;
 }
 
-li {
+.article {
     height: 100%;
+}
+
+@media (min-width: 360px) {
+    .list {
+        grid-template-columns: 1fr 1fr;
+    }
+} 
+
+@media (min-width: 600px) {
+    .list {
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+}
+
+@media (min-width: 920px) {
+    .list {
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+    }
 }
