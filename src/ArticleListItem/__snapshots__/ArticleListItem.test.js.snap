@@ -18,3 +18,56 @@ exports[`ArticleListItem tests renders correctly 1`] = `
   </section>
 </div>
 `;
+
+exports[`ArticleListItem tests renders correctly after show less button is clicked 1`] = `
+<div>
+  <section
+    class="container"
+  >
+    <h1
+      class="title"
+    >
+      The Statue of Liberty's torch heads to new museum
+    </h1>
+    <button
+      class="toggleButton"
+    >
+      Show more
+    </button>
+  </section>
+</div>
+`;
+
+exports[`ArticleListItem tests renders correctly after show more button is clicked 1`] = `
+<div>
+  <section
+    class="container"
+  >
+    <h1
+      class="title"
+    >
+      The Statue of Liberty's torch heads to new museum
+    </h1>
+    <div
+      class="content"
+    >
+      <p
+        class="text"
+      >
+        The Statue of Liberty's original torch is getting a new home
+      </p>
+      <time
+        class="articleTime"
+        datetime="2018-11-22T15:12:24.000Z"
+      >
+        November 22nd 2018, 7:12 am
+      </time>
+    </div>
+    <button
+      class="toggleButton"
+    >
+      Show less
+    </button>
+  </section>
+</div>
+`;
