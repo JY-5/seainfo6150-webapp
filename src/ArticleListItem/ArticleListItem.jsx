@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import PropTypes from "prop-types";
 import ArticleTextToggleButton from "../ArticleTextToggleButton/ArticleTextToggleButton";
 import styles from "./ArticleListItem.module.css";
+import ArticleImage from "../ArticleImage/ArticleImage";
 
 const ArticleListItem = (props) => {
     const [ifClicked, setClicked] = useState(false);
@@ -27,6 +28,7 @@ const ArticleListItem = (props) => {
 
     return (
       <section className={styles.container}>
+        <ArticleImage title={props.article.title} url={props.article.image._url}/>
         <h1 className={styles.title}>{props.article.title}</h1>
         {displayContent}
         <ArticleTextToggleButton buttonText={textOnButton} onClick={changeClick}/>
